@@ -1,0 +1,8 @@
+### 启动
+
+**设置环境变量**
+```
+LIVEKIT_URL=
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
+```
